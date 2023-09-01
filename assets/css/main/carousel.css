@@ -1,0 +1,18 @@
+#disclaimer-header{
+    display: block;
+    width:100%;
+    padding:50px;
+}
+.disclaimer-title{
+    width: max-content;
+}
+.disclaimer-title h1{
+    font-size: 56px;
+    background: linear-gradient(to right, #e72222, #7a83e6 90%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.disclaimer-title h2{
+    font-size: 54px;
+}
