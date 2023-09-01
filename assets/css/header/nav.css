@@ -68,6 +68,9 @@
 .menu-mobile:hover .traco.menor{
     width:100%;
 }
+#logo-header img{
+    width:9.375rem;
+}
 /* MOBILE */
 
 @media (max-width:720px){
